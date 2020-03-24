@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",﻿中天综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+https://yxl0628.github.io/taiwan.m3u
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",中天综合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中视综合
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
@@ -21,3 +23,5 @@ http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
