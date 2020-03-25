@@ -7,11 +7,9 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#rtmp://58.200.131.2
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://hk.tv0668.com/dl/hk520.php?id=1
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
-http://hk.tv0668.com/dl/hk520.php?id=6
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://hk.tv0668.com/dl/hk520.php?id=9
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://103.145.38.152/axg999.php?id=2
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://103.145.38.152/axg999.php?id=3
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
+http://pull.scphsd.com/live/0d6cacfb094c6c4df4a965672d48edc8.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RTHK32
+http://pull.scphsd.com/live/43c748e4dde4b495696bac5dff4b5ee4.flv
