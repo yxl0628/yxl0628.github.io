@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="港澳台",﻿CNN
+http://spacetv.in/stream/DVB2D6AE8CU/84.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="港澳台",BBC NEWS
+http://spacetv.in/stream/DVB2D6AE8CU/85.m3u8
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="港澳台",FOX
+http://spacetv.in/stream/DVB2D6AE8CU/182.m3u8
+#EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="港澳台",FOX life
+http://spacetv.in/stream/DVB2D6AE8CU/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SBS star
+http://spacetv.in/stream/DVB2D6AE8CU/129.m3u8#https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS1
+http://1tv.gscdn.kbs.co.kr/1tv_hd_3.m3u8?Expires=1585709437&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2X2hkXzMubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NTcwOTQzN319fV19&Signature=JM06sUNG1kxF~J9D1HyrmGNNwAXBHdtnqGMQo727x6u35ZFnR0UBQ9ar4KOY3Jz3COvFDF0UNXvCcyGsn~5ZL~52U-YKF8CQ4NjBuocZcaSBmkLD~~nl88ucCknPFQnUhKdLgAeqWyzRItidATULbev6Q5s3PiP29qakvXQdbLULiLPAfOxCPkDR7qpBI0pIUADh2Nd2pWEBTU40LXwWv3~vOSHBPiYOzUzEEq2Jm4xPvsDhUrAr7~SKhiQidd56cqbv7cCsZkUp9jlrTYStfFeZIqe7WvP79DdyquuUtz7FnmNr-k6Z-MiO7lmRwgtX1fQllYmg~UK04NFUsZk-UA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",INC
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",5
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",5 Plus
+http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Central Luzon Television
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hope Phillippines
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TBN Phillippines
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Telenovela Channel
+http://210.210.155.69/s/s70/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Inquirer 990 TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Island Living on BEAM
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",POP Life
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",UNTV Public
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",GMA Pinoy
+http://164.40.161.43:10011
