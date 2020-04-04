@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",﻿凤凰中文
-rtmp://58.200.131.2:1935/livetv/fhzw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰电影
-rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯
 http://24tl.qingk.cn/live/fhzx889.flv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://ter.zgsgllive.ksmobile.net/yolo/8ac1458ff8a00c8eddde96a897d1a28d.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://ter.zgsgllive.ksmobile.net/yolo/c8420dcedc0ed431c39533fea7d2a2df.flv
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",TVB无线新闻台
-http://ter.zgsgllive.ksmobile.net/yolo/f961744b3e979ad3e8faf99af590ef1d.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文
 http://qlive.fengshows.cn/live720p/PCC.flv?txSecret=d676f9bf172bc1e1c3aae06a3bc5bcf5&txTime=5e6f5d9d
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯
