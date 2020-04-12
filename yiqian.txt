@@ -2,15 +2,15 @@
 加州KRRL-FM 92.3(Hip Hop),https://c8.prod.playlists.ihrhls.com/181/playlist.m3u8
 加州KKJZ-FM 88.1(Jazz),https://1.ice1.sslstream.com/kkjz_fm.aac
 RTI央廣音樂網Live,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
-长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
-新疆音乐广播 MyFM FM103.9,http://ls.qingting.fm/live/4029.m3u8
-襄阳新闻广播 FM104,http://ls.qingting.fm/live/1307.m3u8
-襄阳汽车广播 FM105.3,http://ls.qingting.fm/live/1309.m3u8
-襄阳汽车广播 FM105.3,http://ls.qingting.fm/live/1308.m3u8
-陕西青春广播 FM105.5,http://radio.sxtvs.com/radio/kids.mp3
-宁波经济广播 FM102.9,http://live.xmcdn.com/live/649/64.m3u8
-九江交通广播 FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
+郑州私家车FM91.8,http://ls.qingting.fm/live/1222.m3u8
+长沙新闻广播FM105.0,http://ls.qingting.fm/live/4877.m3u8
+新疆音乐广播MyFM FM103.9,http://ls.qingting.fm/live/4029.m3u8
+襄阳新闻广播FM104,http://ls.qingting.fm/live/1307.m3u8
+襄阳汽车广播 M105.3,http://ls.qingting.fm/live/1309.m3u8
+襄阳汽车广播FM105.3,http://ls.qingting.fm/live/1308.m3u8
+陕西青春广播FM105.5,http://radio.sxtvs.com/radio/kids.mp3
+宁波经济广播FM102.9,http://live.xmcdn.com/live/649/64.m3u8
+九江交通广播FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
 赤峰汉语综合广播 FM96,http://live.xmcdn.com/live/1085/64.m3u8
 CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 CRI Sydney,http://ls.qingting.fm/live/4584.m3u8
