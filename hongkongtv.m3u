@@ -1,9 +1,13 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",﻿凤凰中文
-rtmp://58.200.131.2:1935/livetv/fhzw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰电影
-rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文
-http://qlive.fengshows.cn/live720p/PCC.flv?txSecret=d676f9bf172bc1e1c3aae06a3bc5bcf5&txTime=5e6f5d9d
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯
-http://qlive.fengshows.cn/live720p/PIN.flv?txSecret=3de72b2a2ab4c44574d7202d9c7281bb&txTime=5e6f5cde
+EXTM3U
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",﻿Viu TV
+http://tangyuanya.top/axg.php?id=1
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+http://tangyuanya.top/axg.php?id=3
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
+http://tangyuanya.top/axg.php?id=4
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台
+http://tangyuanya.top/axg.php?id=5
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河台
+http://tangyuanya.top/axg.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NOW新闻台
+http://tangyuanya.top/axg.php?id=7
