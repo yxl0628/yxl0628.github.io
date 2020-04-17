@@ -1,57 +1,14 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",﻿中视
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
-http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻
-http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台",中天娱乐
-http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-http://111.13.111.192/125.227.198.89:8020
-#EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="港澳台",寰宇财经
-http://111.13.111.192/125.227.198.89:8026
-#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾
-http://111.13.111.192/125.227.198.89:8023
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台",公视HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6034" tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="港澳台",原住民电视台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6035" tvg-name="客家电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" group-title="港澳台",客家电视台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",八大第1台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_27_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_28_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="港澳台",三立都会台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_30_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="港澳台",卫视中文台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_31_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="港澳台",东森综合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_32_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6056" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" group-title="港澳台",年代MUCH-HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="港澳台",东森戏剧台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_40_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="港澳台",八大戏剧台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_41_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_42_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_52_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+http://tangyuanya.top/axg.php?id=8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
+http://tangyuanya.top/axg.php?id=9
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻台
+http://tangyuanya.top/axg.php?id=10
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_54_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_56_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_58_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+http://tangyuanya.top/axg.php?id=11
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+http://tangyuanya.top/axg.php?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",龙祥时代台
+http://tangyuanya.top/axg.php?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线电影台
+http://tangyuanya.top/axg.php?id=14
