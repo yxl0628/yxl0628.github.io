@@ -5,66 +5,7 @@ http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1589983307&Policy=eyJTdGF
 http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1589983373&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTk4MzM3M319fV19&Signature=MxjzWiqM734~HkFIkZ31uAi-XBonkLkViK8Ya-rW0itGZ4JJmK7M9dqMVb7RXysRQrKRiFh0xE~cI7YyyzVLXn7vOmO-Flk23zG0voMHpaod8f-~0hPIdnIsyn1Jjwcw3~hQ75G1glUfrRsnpA3fcBjy8BNy-zhWT4UR2vf66h~J9TEr0uZAlltn05Nc0wFPdSBi9mBXNmaGYfw5XOIwfpjjEQkDl8FzNEl0Ti3qXp2XyXnck~cc6~of-hRt0lNC3gN1qlSQ7Ugb~M5V5MDAXx2H0egGbrQuBOOrUrDBCqyG4LzQ3GRUaa6WNDaxcRVGCZi1quohsq8wB01kYzAtBg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 ,KBS WORLD
 http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1589983339&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTk4MzMzOX19fV19&Signature=gXQpOENzBnhmxszC023Oh~wnhktxwt2NoFWs~KK6cPOXt1rklUFfiH-3Ey1FWcvpXG73Bf5Vd8aChLjDJlOLWFWgolotB-w32m-HuHgl1x~lipECLqsnbjbBn3WSA3whZhDysDL9CoF6WMZmUBAe~7ewsLWyqA4HVeLyrXgIEAJithVoNkM-ROeTC3hWTedKkyOY~yXPTy0f1VSjpzygAzOnGRrVbElcTkFZlYnAGXrEknB58xud75CYP7rn3s6UFCKNQ-yQtqkpKGgXGfCzZw1XLHL~g2OUo~lpPyTbjNwymcSd3UDOUKNLDVWIDrZ1euZwwUIQq4Ir1NfMRZoWmA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 ,Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,HallyPOP
-https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
-#EXTINF:-1 ,MBC
-http://211.54.140.36/hdmi
-#EXTINF:-1 ,SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 ,MBN TV
-rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
-#EXTINF:-1 ,OBS
-rtmp://live.obs.co.kr/live/obs/myStream.sdp
-#EXTINF:-1 ,G1
-rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-#EXTINF:-1 ,YTN
-https://live.cdn.wavve.com/hls/C2101/KR/1/2000/live.m3u8?seek=0
-#EXTINF:-1 ,YTN
-https://live.cdn.wavve.com/hls/C2101/KR/1/live5000.m3u8
-#EXTINF:-1 ,SBS
-http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODk4MTA1NjUsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1NjVkYTEyOS0xZWZiLTQ1ZmItOGQ4ZS1hMmU3MDU5YTRjNDcifQ.C7J6gsSxBnrllwiKAufdbAcLEnmTNoEIQypaMkRT5-A
-#EXTINF:-1 ,SBS
-http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODk4MTA1NjUsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1NjVkYTEyOS0xZWZiLTQ1ZmItOGQ4ZS1hMmU3MDU5YTRjNDcifQ.C7J6gsSxBnrllwiKAufdbAcLEnmTNoEIQypaMkRT5-A&solsessionid=7cc6e26fdbc7c0e7bae13375a873524d
 #EXTINF:-1 ,EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 ,EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist_w979987598.m3u8
-#EXTINF:-1 ,KBS1
-p2p://104.238.103.179:8916/5b221608000be434051c8f8885f37645.ts
-#EXTINF:-1 ,KBS2
-p2p://104.238.103.179:8916/5b22162700048b2f051d06bef0b1f01b.ts
-#EXTINF:-1 ,SBS
-p2p://104.238.103.179:8916/5b2216c4000ba2ba051f6dd706e104fb.ts
-#EXTINF:-1 ,MBC
-p2p://104.238.103.179:8916/5b2216f0000741d40520189825bed123.ts
-#EXTINF:-1 ,JTBC
-p2p://104.238.103.179:8916/5b2218c3000bff0d05273a07b2159b71.ts
-#EXTINF:-1 ,EBS
-p2p://104.238.103.179:8916/5b2219a5000e6fa8052aad77621dea39.ts
-#EXTINF:-1 ,YTN
-p2p://104.238.103.179:8916/5b221a810004bf85052e065c1a460998.ts
-#EXTINF:-1 ,Channel A
-p2p://104.238.103.179:8916/5b22518b0002f5f5060504f7d0f44452.ts
-#EXTINF:-1 ,MBN
-p2p://104.238.103.179:8916/5b22177f0008749f0522477f5176cfdb.ts
-#EXTINF:-1 ,OCN
-p2p://104.238.103.179:8916/5b235cce0006e3030a1903b05e62fde0.ts
-#EXTINF:-1 ,SBS GOLF
-p2p://104.238.103.179:8916/5b22256400047f7605588d0332deaf28.ts
-#EXTINF:-1 ,JTBC GOLF
-p2p://104.238.103.179:8916/5b2217520006ce0b0521974ad2bed90e.ts
-#EXTINF:-1 ,SPOTV+
-p2p://104.238.103.179:8916/5b272223000691d918d3d7a3610cf1dc.ts
-#EXTINF:-1 ,KBSN SPORTS
-p2p://104.238.103.179:8916/5b234c78000a281909d934967b48265d.ts
-#EXTINF:-1 ,SBS SPORTS
-p2p://104.238.103.179:8916/5b221735000c090f05212759ac370dbc.ts
-#EXTINF:-1 ,MBC SPORTS
-p2p://104.238.103.179:8916/5b221735000bc8600521274943008c21.ts
-#EXTINF:-1 ,CGV
-p2p://104.238.103.179:8916/5b3b094a000bacde194deb14d4cdd31f.ts
-#EXTINF:-1 ,TV Chosun
-p2p://104.238.103.179:8916/5b2220b00006503305462e5adb6b8fcc.ts
-
