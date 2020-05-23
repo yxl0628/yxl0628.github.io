@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿TVB无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",TVB无线新闻台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590139290~exp=1590225690~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=fb92a7fa9a7737f54bc625eb708acaa9f2dcbeac0dab614a8ba7832162d5d2b6
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://hlive.fengshows.cn/live/pcc_720p.flv?txSecret=5328ca21f723630f14bb76f3392855cd&txTime=5ec7daea
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://hlive.fengshows.cn/live/pin_720p.flv?txSecret=212c1ca6740200bc61c1596e82b9ded1&txTime=5ec7dafb
+http://117.148.187.83/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线娱乐台
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
