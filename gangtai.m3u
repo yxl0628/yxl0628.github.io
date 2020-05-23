@@ -4,7 +4,7 @@ http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/p
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://hlive.fengshows.cn/live/pcc_720p.flv?txSecret=5328ca21f723630f14bb76f3392855cd&txTime=5ec7daea
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://117.148.187.83/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线娱乐台
