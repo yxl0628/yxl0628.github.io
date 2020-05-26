@@ -21,7 +21,7 @@ http://iptv.gftvs.nl/gf/xg.php?id=9&xl=1
 http://iptv.gftvs.nl/gf/xg.php?id=31&xl=2
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://iptv.gftvs.nl/gf/xg.php?id=2&xl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰信息台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰资讯台
 http://iptv.gftvs.nl/gf/xg.php?id=3&xl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now新闻台
 http://iptv.gftvs.nl/gf/xg.php?id=16&xl=1
