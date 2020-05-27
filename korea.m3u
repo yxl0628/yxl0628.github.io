@@ -41,5 +41,9 @@ http://ucc.zhibiaogu.com/ebs1/index.m3u8
 http://ucc.zhibiaogu.com/jtbc/index.m3u8
 #EXTINF:-1 ,MNET
 http://ucc.zhibiaogu.com/m_net/index.m3u8
+#EXTINF:-1 ,TVN
+http://ucc.zhibiaogu.com/tvn/index.m3u8
+#EXTINF:-1 ,OBS
+http://ucc.zhibiaogu.com/obs/index.m3u8
 #EXTINF:-1 ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
