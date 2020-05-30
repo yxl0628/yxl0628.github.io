@@ -9,7 +9,7 @@ http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1590202322&Policy=e
 http://ucc.zhibiaogu.com/ebs1/index.m3u8
 #EXTINF:-1 ,국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,SBS
+#EXTINF:-1 ,SBS HD
 http://ucc.zhibiaogu.com/sbs/index.m3u8
 #EXTINF:-1 ,KBS JOY
 http://ucc.zhibiaogu.com/kbsjoy/index.m3u8
