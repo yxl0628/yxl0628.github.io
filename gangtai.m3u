@@ -37,3 +37,30 @@ http://iptv.gftvs.nl/gf/xg.php?id=25&xl=1
 http://iptv.gftvs.nl/gf/xg.php?id=34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now新闻台
 http://bsliveplay.tstmobile.com/vxiu1/eca1e6d3fa311907ac6958b4ea4a72ec.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",﻿中天新闻
+http://ltv2.228888888.xyz:8081/live/tw101.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
+http://ltv2.228888888.xyz:8081/live/tw102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华视新闻
+http://ltv2.228888888.xyz:8081/live/tw103.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://ltv2.228888888.xyz:8081/live/tw104.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+http://ltv2.228888888.xyz:8081/live/tw105.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
+http://ltv2.228888888.xyz:8081/live/tw106.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
+http://ltv2.228888888.xyz:8081/live/tw107.m3u8
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",三立财经
+http://ltv2.228888888.xyz:8081/live/tw109.m3u8
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
+http://ltv2.228888888.xyz:8081/live/tw110.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
+http://ltv2.228888888.xyz:8081/live/tw111.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="东森亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaNews.png" group-title="港澳台",东森亚洲新闻
+http://ltv2.228888888.xyz:8081/live/tw112.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻2
+http://ltv2.228888888.xyz:8081/live/tw113.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
+http://ltv2.228888888.xyz:8081/live/tw114.m3u8
+
