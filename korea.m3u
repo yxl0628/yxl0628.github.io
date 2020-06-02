@@ -39,8 +39,8 @@ http://ucc.zhibiaogu.com/ytn/index.m3u8
 http://ucc.zhibiaogu.com/ebs1/index.m3u8
 #EXTINF:-1 ,JTBC
 http://ucc.zhibiaogu.com/jtbc/index.m3u8
-#EXTINF:-1 ,MNET
-http://ucc.zhibiaogu.com/m_net/index.m3u8
+#EXTINF:-1 ,BBC WORLD
+http://ucc.zhibiaogu.com/bbc/index.m3u8
 #EXTINF:-1 ,TVN
 http://ucc.zhibiaogu.com/tvn/index.m3u8
 #EXTINF:-1 ,OBS
