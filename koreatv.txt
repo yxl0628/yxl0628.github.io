@@ -1,8 +1,0 @@
-KBS1,rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
-KBS2,rtmp://live2.kbs.gscdn.com:1935/2tv_home/_definst_/playlist.m3u8?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
-SBS PLUS,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/playlist.m3u8
-SBS国际,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-马普电台,http://plive.podbbang.com/mapofm_app.mp3
-CBS radio,http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8#http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
-MBN(KR),http://110.14.2.104:9981/stream/channelid/1234936631
- 
