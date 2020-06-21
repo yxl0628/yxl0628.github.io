@@ -1,32 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
-https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线娱乐台
-https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蜡笔小新
-http://aldirect.rtmp.huya.com/backsrc/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视台
-http://iptv.gftvs.nl/gf/xg.php?id=6&xl=1
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://iptv.gftvs.nl/gf/xg.php?id=1&xl=2
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://iptv.gftvs.nl/gf/xg.php?id=1&xl=1
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://iptv.gftvs.nl/gf/xg.php?id=13&xl=2
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://iptv.gftvs.nl/gf/xg.php?id=13&xl=1
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://iptv.gftvs.nl/gf/xg.php?id=9&xl=1
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
-http://iptv.gftvs.nl/gf/xg.php?id=31&xl=2
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://iptv.gftvs.nl/gf/xg.php?id=2&xl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰资讯台
-http://iptv.gftvs.nl/gf/xg.php?id=3&xl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now新闻台
-http://iptv.gftvs.nl/gf/xg.php?id=16&xl=1
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台
-http://iptv.gftvs.nl/gf/xg.php?id=10&xl=2
-
-
-
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿TVB无线新闻台
+http://cdn.elibei.com/pull?pinyin=wxxw
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",TVB无线财经资讯台
+http://cdn.elibei.com/pull?pinyin=wxcj
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",香港有线新闻
+http://cdn.elibei.com/pull?pinyin=yxxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",香港ATV
+http://cdn.elibei.com/pull?pinyin=atv
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
+http://cdn.elibei.com/pull?pinyin=kds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",香港NOW新闻
+http://cdn.elibei.com/pull?pinyin=nownews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NOW直播台
+http://cdn.elibei.com/pull?pinyin=nowlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NOW体育
+http://cdn.elibei.com/pull?pinyin=nowsport
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVBj2
+http://cdn.elibei.com/pull?pinyin=tvbj2
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+http://cdn.elibei.com/pull?pinyin=twzs
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+http://cdn.elibei.com/pull?pinyin=twhs
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+http://cdn.elibei.com/pull?pinyin=twts
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+http://cdn.elibei.com/pull?pinyin=twms
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",三立LIVE新闻
+http://cdn.elibei.com/pull?pinyin=twsllive
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻
+http://cdn.elibei.com/pull?pinyin=twztxw
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://cdn.elibei.com/pull?pinyin=twtvbsxw
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
+http://cdn.elibei.com/pull?pinyin=twyxw
