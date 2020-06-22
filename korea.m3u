@@ -3,47 +3,53 @@
 http://ucc.zhibiaogu.com/kbs1/index.m3u8
 #EXTINF:-1 ,KBS2
 http://ucc.zhibiaogu.com/kbs2/index.m3u8
-#EXTINF:-1 ,KBS WORLD
-http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1591699489&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTY5OTQ4OX19fV19&Signature=MJY~T9LDIcpROJaVqP~AJEXrfWUEZUMhbqwTeL-RR9pDbeV3xryovKwg19NKNN~Vv6ShremJygl5UzT0wkw9TnJsQfWOF2QREf865Pz8~CdMubkTLuMEElg~sAD8T4nSzxVeYZAF86SIuthg9VEQaS8ATc0bJm9B5ii0p1u27Z-NDR7JC72SKKopGT19ik5pkOsxo5onY5LNsPmEs9aPpy7b8y9jWgqr43WdtfQZ3L7fbIZMMu9ik3SQBPs38UJ2oIYYxt5NrSTWl1Y2ZjxzhRGDH4MyV1NVrrVOHrvvrPJ~~RUBq25nNozcttza978yV8Llh7iKXPh~sL5VVueluQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 ,EBS1
-http://ucc.zhibiaogu.com/ebs1/index.m3u8
-#EXTINF:-1 ,국방TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,SBS HD
-http://ucc.zhibiaogu.com/sbs/index.m3u8
+#EXTINF:-1 ,KBS world
+http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1592638984&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjYzODk4NH19fV19&Signature=CvrwZ~qG~5LyuDQ3yqWCsSzeNCIQsY9Nk8ZAB~yhZxbLng98mx39-DnVoH4FGymJmenfbIn8cIHmBiouUNPbDlsGEqk2jaXdTsdOI7gpMlrbCIJ3Jt~rhQ8naw7BeOJpTZdH-tfQyMetJKBRMRXAHZicasziFbcn1FQ8lBARI7sHtOLnO0ax38eo7VUyPceZUZtklwa562CKkLixdVnAuJIYxWve63vBa60VQ05rNjTEb2~JwWMi~~LZ24W1dURNBJCI4sp608gI2xaxsX-0ZfX1dSsQDxKtxRo1FQDugTCr59tLql6vyeDjQP7hLNlrXhQX~JNOQ1E1wXm7uMOzqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 ,KBS JOY
 http://ucc.zhibiaogu.com/kbsjoy/index.m3u8
+#EXTINF:-1 ,SBS
+http://ucc.zhibiaogu.com/sbs/index.m3u8
 #EXTINF:-1 ,SBS PLUS
 http://ucc.zhibiaogu.com/sbsplus/index.m3u8
 #EXTINF:-1 ,SBS体育台
 http://ucc.zhibiaogu.com/sbssports/index.m3u8
 #EXTINF:-1 ,MBC
 http://ucc.zhibiaogu.com/mbc/index.m3u8
+#EXTINF:-1 ,MBC EVERY1
+http://ucc.zhibiaogu.com/mbcevery1/index.m3u8
 #EXTINF:-1 ,MBC体育台
 http://ucc.zhibiaogu.com/mbcsports/index.m3u8
 #EXTINF:-1 ,MBN
 http://ucc.zhibiaogu.com/mbn/index.m3u8
 #EXTINF:-1 ,SBS PLUS
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/playlist.m3u8
-#EXTINF:-1 ,SBS
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 ,马普电台
 http://plive.podbbang.com/mapofm_app.mp3
-#EXTINF:-1 ,CBS radio
-http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
 #EXTINF:-1 ,CBS radio
 http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
 #EXTINF:-1 ,YTN
 http://ucc.zhibiaogu.com/ytn/index.m3u8
 #EXTINF:-1 ,EBS1
 http://ucc.zhibiaogu.com/ebs1/index.m3u8
+#EXTINF:-1 ,EBSi
+http://ucc.zhibiaogu.com/ebsi/index.m3u8
+#EXTINF:-1 ,EBSe
+http://ucc.zhibiaogu.com/ebse/index.m3u8
 #EXTINF:-1 ,JTBC
 http://ucc.zhibiaogu.com/jtbc/index.m3u8
-#EXTINF:-1 ,BBC WORLD
-http://ucc.zhibiaogu.com/bbc/index.m3u8
 #EXTINF:-1 ,TVN
 http://ucc.zhibiaogu.com/tvn/index.m3u8
 #EXTINF:-1 ,OBS
 http://ucc.zhibiaogu.com/obs/index.m3u8
+#EXTINF:-1 ,CGV
+http://ucc.zhibiaogu.com/cgv/index.m3u8
+#EXTINF:-1 ,韩国职业放送
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 ,韩国职业放送
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/chunklist_w247517222.m3u8
 #EXTINF:-1 ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 ,MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 ,YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
