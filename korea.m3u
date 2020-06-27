@@ -3,8 +3,6 @@
 http://ucc.zhibiaogu.com/kbs1/index.m3u8
 #EXTINF:-1 ,KBS2
 http://ucc.zhibiaogu.com/kbs2/index.m3u8
-#EXTINF:-1 ,KBS world
-http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1592638984&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjYzODk4NH19fV19&Signature=CvrwZ~qG~5LyuDQ3yqWCsSzeNCIQsY9Nk8ZAB~yhZxbLng98mx39-DnVoH4FGymJmenfbIn8cIHmBiouUNPbDlsGEqk2jaXdTsdOI7gpMlrbCIJ3Jt~rhQ8naw7BeOJpTZdH-tfQyMetJKBRMRXAHZicasziFbcn1FQ8lBARI7sHtOLnO0ax38eo7VUyPceZUZtklwa562CKkLixdVnAuJIYxWve63vBa60VQ05rNjTEb2~JwWMi~~LZ24W1dURNBJCI4sp608gI2xaxsX-0ZfX1dSsQDxKtxRo1FQDugTCr59tLql6vyeDjQP7hLNlrXhQX~JNOQ1E1wXm7uMOzqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 ,KBS JOY
 http://ucc.zhibiaogu.com/kbsjoy/index.m3u8
 #EXTINF:-1 ,SBS
