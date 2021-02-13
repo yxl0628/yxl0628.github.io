@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",﻿袷?
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",﻿民视
 https://playks-flv.shangzhibo.tv/onelive/10289416-8fsTR9Hr5.flv
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
 https://playks-flv.shangzhibo.tv/onelive/10289421-0WSUWYxjs.flv
@@ -13,16 +13,8 @@ rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb20210118GS.flv
 rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszbdwxq290076mm00f.flv
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
 rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb2021dsypabcd.flv
-#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
-https://playks-flv.shangzhibo.tv/onelive/10289439-nVLguCunj.flv
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
-https://playks-flv.shangzhibo.tv/onelive/10289423-8mwUUrStI.flv
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
-https://playks-flv.shangzhibo.tv/onelive/10289470-nSZAlezkW.flv
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
 https://playks-flv.shangzhibo.tv/onelive/10289511-sXVl2lHm1.flv
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
-https://playks-flv.shangzhibo.tv/onelive/10289492-EL7VEGEuR.flv
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹电视新闻台
 http://v3948069e.live.126.net/live/us01/tw20200114yinews.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中天新闻
@@ -31,7 +23,7 @@ http://v3948069e.live.126.net/live/us01/tw20200114zhongtiannews.flv
 http://v3948069e.live.126.net/live/us01/tw20200114huanyunews.flv
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq4/c11vbdxfxx.flv
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻11
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 http://v3948069e.live.126.net/live/us01/tw20200114zhongshinews.flv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",tvbs新闻
 rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/tvbsqwe
@@ -49,24 +41,16 @@ http://v3948069e.live.126.net/live/us01/tw20200114taishinews.flv
 http://v3948069e.live.126.net/live/us01/tw20200114huashinews.flv
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
 http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
-rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq4/12111xx2533xzy.flv
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",三立inews频道
 rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/inewsKpgs111hi11.flv
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
 rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/son12zzxxcc3gswwwhi1341.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",民事旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",民视旅游
 rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/1221555221sjingyan.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫视
-rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq2/11122211sa554430www.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫视2
-rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/1111fendfsheeei11.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动森超市台
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 http://v3948069e.live.126.net/live/us01/hk20200114dongsenchaoshi.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国家WILD
 http://v3948069e.live.126.net/live/us01/tw20200114guojiayesheng.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",民视影剧
-rtmp://v3948069e.live.126.net/live/UBlive/u/b/ub/fwq5/sc2ai532hng33shi11.flv
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 http://v3948069e.live.126.net/live/us01/tw20200114minshi.flv
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
